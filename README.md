@@ -9,3 +9,10 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+ p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<h3 align="center">Building innovative, functional, and user-friendly mobile apps across Android.</h3>
+
+---
