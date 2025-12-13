@@ -19,4 +19,4 @@
 ### 🌟 About Me
 - 💬 **Ask me about:** C Programming  
 - 📫 **Contact me at:** foisalhimel@gmail.com 
-- 🚀 **Tech Stack:** Flutter | Firebase | Django | Security Analysis | REST API | WebSockets  
+- 🚀 **Tech Stack:** SCRATCH  
