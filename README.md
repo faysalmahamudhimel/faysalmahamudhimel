@@ -15,6 +15,8 @@
 </p>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-### 🌟 About Me<br>
-- 💬 **Ask me about:** C Programming <br>
-- 📫 **Contact me at:** foisalhimel@gmail.com <br>
+
+### 🌟 About Me
+- 💬 **Ask me about:** Mobile Applications, Flutter Framework, Firebase, Node.js, REST API, and GraphQL  
+- 📫 **Contact me at:** azrul.amaline16@gmail.com 
+- 🚀 **Tech Stack:** Flutter | Firebase | Django | Security Analysis | REST API | WebSockets  
