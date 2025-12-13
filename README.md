@@ -19,6 +19,6 @@
 ### 🌟 About Me
 - 💬 **Ask me about:** C Programming  
 - 📫 **Contact me at:** foisalhimel@gmail.com
-- </p>
+</p>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
