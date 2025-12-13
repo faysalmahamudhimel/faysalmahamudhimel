@@ -15,6 +15,6 @@
 </p>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-### 🌟 About Me
+### 🌟 About Me<br>
 - 💬 **Ask me about:** C Programming <br>
 - 📫 **Contact me at:** foisalhimel@gmail.com <br>
