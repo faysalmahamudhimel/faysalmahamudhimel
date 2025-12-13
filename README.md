@@ -17,6 +17,6 @@
 </p>
 
 ### 🌟 About Me
-- 💬 **Ask me about:** Mobile Applications, Flutter Framework, Firebase, Node.js, REST API, and GraphQL  
+- 💬 **Ask me about:** C Programming  
 - 📫 **Contact me at:** foisalhimel@gmail.com 
 - 🚀 **Tech Stack:** Flutter | Firebase | Django | Security Analysis | REST API | WebSockets  
