@@ -19,4 +19,3 @@
 ### 🌟 About Me
 - 💬 **Ask me about:** C Programming  
 - 📫 **Contact me at:** foisalhimel@gmail.com 
-- 🚀 **Tech Stack:** SCRATCH  
