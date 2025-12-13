@@ -7,7 +7,10 @@
 </h1>
 
 </p>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <h3 align="center">Learning</h3>
 
 ---
+
