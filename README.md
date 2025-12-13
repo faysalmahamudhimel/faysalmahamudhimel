@@ -1,22 +1,11 @@
-![](https://media.licdn.com/dms/image/v2/D5616AQFI2BycOe5e4g/profile-displaybackgroundimage-shrink_350_1400/B56Zkf8Y.HHMAc-/0/1757177549533?e=1767225600&v=beta&t=W5qat_xzGdJjZswLve1iT-XX7qMBnFA2GwIKD0OPjiA)
+<h1 align="center">Hi 👋, I'm Himel</h1>
 
-## Hi there 👋, I am Himel
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F7FF&width=600&lines=Full-Stack+Mobile+App+Developer;Flutter+%7C+Django+%7C+REST+API+%7C+FIREBASE;Building+Scalable+Apps+for+Android" alt="Typing SVG" />
+  </a>
+</h1>
 
-
-👨‍🎓 Student | 💻 Beginner Programmer  
-Learning C programming, Git & GitHub  
-Always curious to learn new technologies 🚀
-
-
-Skills: C
-
-- 🌱 I’m currently learning C Programming 
-- 👯 I’m looking to collaborate on github 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/faysalmahamudhimel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faysalmahamudhimel//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/faysalmahamudhimel1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/faysalmahamudhimel//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/SkHimel20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/faysalmahamudhimel)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/faysalmahamudhimel)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/faysalmahamudhimel/contributions?format=svg&private=false)  
-
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
