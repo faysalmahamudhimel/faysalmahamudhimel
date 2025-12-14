@@ -22,44 +22,20 @@
 </p>
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-<p align="center">
-  <a href="https://github.com/faysalmahamudhimel">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg?color=181717"
-         height="42"
-         style="margin:10px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/faysalmahamudhimel/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=0A66C2"
-         height="42"
-         style="margin:10px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faysalmahamudhimel/faysalmahamudhimel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faysalmahamudhimel/faysalmahamudhimel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faysalmahamudhimel/faysalmahamudhimel/output/pacman-contribution-graph.svg">
+</picture>
 
-  <a href="https://www.facebook.com/faysalmahamudhimel1">
-    <img src="https://instasize.com/p/4e04d4a3158135fb150b023f740534d7cb7d222b2d4139bfcea1745e9bd16668"
-         height="42"
-         style="margin:10px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
+###
 
-  <a href="https://www.instagram.com/faysalmahamudhimel/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg?color=E4405F"
-         height="42"
-         style="margin:10px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-  <a href="https://x.com/SkHimel20">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg?color=1DA1F2"
-         height="42"
-         style="margin:10px; transition:0.3s;"
-         onmouseover="this.style.transform='scale(1.2)'"
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</p>
+###
