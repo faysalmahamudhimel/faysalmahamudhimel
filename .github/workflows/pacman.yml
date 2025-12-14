@@ -27,3 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: output
+          force_orphan: true     # branch auto-create & clean push
