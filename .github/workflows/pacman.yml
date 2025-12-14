@@ -2,8 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # প্রতিদিন একবার
-  workflow_dispatch:     # manually run করার জন্য
+    - cron: "0 0 * * *"  # প্রতিদিন একবার
+  workflow_dispatch:     # manual run
 
 jobs:
   generate:
@@ -13,18 +13,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate pacman contribution graph
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: faysalmahamudhimel
-          outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip
+          pip3 install snk
 
-      - name: Push generated files to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: output
-          force_orphan: true     # branch auto-create & clean push
+      - name: Generate Pacman contribution graph
+        run: |
+          mkdir -p output
+          snk pacman --user faysalmahamudhimel --output output/pacman-contribution-graph.svg
+          snk pacman --user faysalmahamudhimel --palette github-dark --output output/pacman-contribution-graph-dark.svg
+
+      - name: Push to output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg
+          git commit -m "Update Pacman contribution graph" || echo "No changes to commit"
+          git branch -M output
+          git push -u origin output --force
